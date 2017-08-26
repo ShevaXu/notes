@@ -4,7 +4,7 @@ See [issues](https://github.com/ShevaXu/notes/issues) for notes, and feel free t
 
 ## Contents
 
-* [Awesome Go Lite for Gophers](#1)
+* *Awesome Go Lite for Gophers* (#1)
 
 ## License
 
