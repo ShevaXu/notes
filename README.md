@@ -5,6 +5,9 @@ See [issues](https://github.com/ShevaXu/notes/issues) for notes, and feel free t
 ## Contents
 
 * [*Awesome Go Lite for Gophers*](https://github.com/ShevaXu/notes/issues/1)
+* [*Introduction to Parallel Programming - Part I*](https://github.com/ShevaXu/notes/issues/2)
+* [*Object Oriented JavaScript*](https://github.com/ShevaXu/notes/issues/3)
+* [*Advanced JavaScript*](https://github.com/ShevaXu/notes/issues/4)
 
 ## License
 
