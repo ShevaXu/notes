@@ -8,6 +8,7 @@ See [issues](https://github.com/ShevaXu/notes/issues) for notes, and feel free t
 * [*Introduction to Parallel Programming - Part I*](https://github.com/ShevaXu/notes/issues/2)
 * [*Object Oriented JavaScript*](https://github.com/ShevaXu/notes/issues/3)
 * [*Advanced JavaScript*](https://github.com/ShevaXu/notes/issues/4)
+* [*Graceful Server in Golang*](https://github.com/ShevaXu/notes/issues/5)
 
 ## License
 
